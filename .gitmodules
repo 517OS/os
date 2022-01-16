@@ -1,0 +1,8 @@
+[submodule "busybox"]
+	path = busybox
+	url = git://git.busybox.net/busybox
+	branch = 1_34_stable
+[submodule "linux"]
+	path = linux
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
+	branch = linux-5.15.y
